@@ -29,12 +29,12 @@ app = Flask(__name__, static_folder='static')
 
 # ==================== DISCORD WEBHOOK ====================
 # Paste your Discord webhook URL here
-DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1491624735711428728/wwLxGU-Zblv-n-8-5zlZHxYZrcZt7gsb6DJ-IU9g8ffSqi0qgg6Vft8gLPXF1VcNsMkb'
+DISCORD_WEBHOOK_URL = ''
 
 # ==================== GEMINI API ====================
 # Get your free API key at: https://aistudio.google.com/apikey
 # Used for: pre-filter scoring of candidates + per-signal analysis + Discord commentary
-GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY') or 'AIzaSyAFJLa5ctWFxAQ0vibRwm2326vVyuSiU6A'
+GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY') or ''
 
 # ==================== ANTHROPIC API (claude_analyzer.py only) ====================
 # Only needed if you run backtest analysis via claude_analyzer.py.
@@ -56,8 +56,8 @@ if TRADIER_TOKEN:
 #   webull.com/center#openApiManagement  →  API Management  →  My Application
 # Provides: real-time stock quotes + intraday OHLCV bars (5-min live candles).
 # NOTE: Webull's official API does NOT have options chains — that uses Tradier/yfinance.
-WEBULL_APP_KEY    = os.environ.get('WEBULL_APP_KEY')    or '5d683de0f6b6d8506d3de5d207b990d2'
-WEBULL_APP_SECRET = os.environ.get('WEBULL_APP_SECRET') or 'aca1cb446809017863e618387577f116'
+WEBULL_APP_KEY    = os.environ.get('WEBULL_APP_KEY')    or ''
+WEBULL_APP_SECRET = os.environ.get('WEBULL_APP_SECRET') or ''
 if WEBULL_APP_KEY and WEBULL_APP_SECRET:
     webull.init(WEBULL_APP_KEY, WEBULL_APP_SECRET, region='us')
 
