@@ -1,0 +1,404 @@
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Serving Flask app 'flask_app'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.252:5000
+Press CTRL+C to quit
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+100.71.254.110 - - [13/Apr/2026 09:38:59] "GET / HTTP/1.1" 200 -
+100.71.254.110 - - [13/Apr/2026 09:39:00] "GET /favicon.ico HTTP/1.1" 404 -
+100.71.254.110 - - [13/Apr/2026 09:39:52] "POST /api/scan HTTP/1.1" 200 -
+100.71.254.110 - - [13/Apr/2026 09:42:18] "POST /api/scan HTTP/1.1" 200 -
+127.0.0.1 - - [13/Apr/2026 09:54:29] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [13/Apr/2026 09:55:24] "POST /api/scan HTTP/1.1" 200 -
+127.0.0.1 - - [13/Apr/2026 10:02:29] "POST /api/scan HTTP/1.1" 200 -
+100.71.254.110 - - [13/Apr/2026 10:17:48] "GET / HTTP/1.1" 304 -
+100.71.254.110 - - [13/Apr/2026 10:17:49] "GET /favicon.ico HTTP/1.1" 404 -
+100.71.254.110 - - [13/Apr/2026 10:18:38] "POST /api/scan HTTP/1.1" 200 -
+100.71.254.110 - - [13/Apr/2026 10:40:45] "GET / HTTP/1.1" 304 -
+100.71.254.110 - - [13/Apr/2026 10:40:46] "GET /favicon.ico HTTP/1.1" 404 -
+100.71.254.110 - - [13/Apr/2026 10:41:34] "POST /api/scan HTTP/1.1" 200 -
+100.71.254.110 - - [13/Apr/2026 10:56:28] "GET / HTTP/1.1" 304 -
+100.71.254.110 - - [13/Apr/2026 10:56:30] "GET /favicon.ico HTTP/1.1" 404 -
+100.71.254.110 - - [13/Apr/2026 10:57:18] "POST /api/scan HTTP/1.1" 200 -
+100.71.254.110 - - [13/Apr/2026 11:29:46] "GET / HTTP/1.1" 304 -
+100.71.254.110 - - [13/Apr/2026 11:29:47] "GET /favicon.ico HTTP/1.1" 404 -
+100.71.254.110 - - [13/Apr/2026 11:30:48] "POST /api/scan HTTP/1.1" 200 -
+100.71.254.110 - - [13/Apr/2026 12:20:31] "GET / HTTP/1.1" 304 -
+100.71.254.110 - - [13/Apr/2026 12:20:33] "GET /favicon.ico HTTP/1.1" 404 -
+100.71.254.110 - - [13/Apr/2026 12:21:20] "POST /api/scan HTTP/1.1" 200 -
+100.71.254.110 - - [13/Apr/2026 12:39:12] "GET / HTTP/1.1" 304 -
+100.71.254.110 - - [13/Apr/2026 12:39:13] "GET /favicon.ico HTTP/1.1" 404 -
+100.71.254.110 - - [13/Apr/2026 13:14:31] "POST /api/scan HTTP/1.1" 200 -
+100.71.254.110 - - [13/Apr/2026 14:26:48] "GET / HTTP/1.1" 304 -
+100.71.254.110 - - [13/Apr/2026 14:26:48] "GET /favicon.ico HTTP/1.1" 404 -
+100.71.254.110 - - [13/Apr/2026 14:27:36] "POST /api/scan HTTP/1.1" 200 -
+100.71.254.110 - - [13/Apr/2026 15:04:00] "GET / HTTP/1.1" 304 -
+100.71.254.110 - - [13/Apr/2026 15:04:01] "GET /favicon.ico HTTP/1.1" 404 -
+100.71.254.110 - - [13/Apr/2026 15:04:49] "POST /api/scan HTTP/1.1" 200 -
+100.71.254.110 - - [14/Apr/2026 07:48:11] "GET / HTTP/1.1" 304 -
+100.71.254.110 - - [14/Apr/2026 07:48:12] "GET /favicon.ico HTTP/1.1" 404 -
+100.71.254.110 - - [14/Apr/2026 07:49:00] "POST /api/scan HTTP/1.1" 200 -
+100.71.254.110 - - [14/Apr/2026 09:53:46] "GET / HTTP/1.1" 304 -
+100.71.254.110 - - [14/Apr/2026 09:53:47] "GET /favicon.ico HTTP/1.1" 404 -
+100.71.254.110 - - [14/Apr/2026 09:54:36] "POST /api/scan HTTP/1.1" 200 -
+100.71.254.110 - - [14/Apr/2026 10:39:03] "GET / HTTP/1.1" 304 -
+100.71.254.110 - - [14/Apr/2026 10:39:04] "GET /favicon.ico HTTP/1.1" 404 -
+100.71.254.110 - - [14/Apr/2026 10:39:55] "POST /api/scan HTTP/1.1" 200 -
+100.71.254.110 - - [14/Apr/2026 11:14:40] "GET / HTTP/1.1" 304 -
+100.71.254.110 - - [14/Apr/2026 11:14:41] "GET /favicon.ico HTTP/1.1" 404 -
+100.71.254.110 - - [14/Apr/2026 11:15:31] "POST /api/scan HTTP/1.1" 200 -
+100.71.254.110 - - [14/Apr/2026 12:55:53] "GET / HTTP/1.1" 304 -
+100.71.254.110 - - [14/Apr/2026 12:55:54] "GET /favicon.ico HTTP/1.1" 404 -
+100.71.254.110 - - [14/Apr/2026 12:56:42] "POST /api/scan HTTP/1.1" 200 -
+100.71.254.110 - - [14/Apr/2026 13:32:22] "GET / HTTP/1.1" 304 -
+100.71.254.110 - - [14/Apr/2026 13:32:23] "GET /favicon.ico HTTP/1.1" 404 -
+100.71.254.110 - - [14/Apr/2026 13:33:26] "POST /api/scan HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\backtest.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\backtest.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\claude_analyzer.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\claude_analyzer.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\build_universe.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\claude_analyzer.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+C:\Users\Robert\Desktop\momentum_scanner\flask_app.py:22: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+C:\Users\Robert\Desktop\momentum_scanner\flask_app.py:22: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+C:\Users\Robert\Desktop\momentum_scanner\flask_app.py:22: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+C:\Users\Robert\Desktop\momentum_scanner\flask_app.py:22: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+127.0.0.1 - - [15/Apr/2026 18:42:53] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [15/Apr/2026 18:42:54] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [15/Apr/2026 18:43:21] "POST /api/scan HTTP/1.1" 200 -
+127.0.0.1 - - [15/Apr/2026 18:45:52] "POST /api/autoscan HTTP/1.1" 200 -
+127.0.0.1 - - [15/Apr/2026 18:45:57] "POST /api/autoscan HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\webull.py', reloading
+WARNING: Webull SDK not installed — pip install webull-python-sdk-core webull-python-sdk-mdata
+[AutoScan] Thread started
+[AutoScan] Market closed — idling
+[AutoScan] Thread stopped
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+C:\Users\Robert\Desktop\momentum_scanner\flask_app.py:22: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\webull.py', reloading
+Webull client initialised (stdlib signing, Python 3.14 compatible)
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+C:\Users\Robert\Desktop\momentum_scanner\flask_app.py:22: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+Webull client initialised (stdlib signing, Python 3.14 compatible)
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+C:\Users\Robert\Desktop\momentum_scanner\flask_app.py:22: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+Webull client initialised (stdlib signing, Python 3.14 compatible)
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+C:\Users\Robert\Desktop\momentum_scanner\flask_app.py:22: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
+ * Detected change in 'C:\\Users\\Robert\\Desktop\\momentum_scanner\\flask_app.py', reloading
+Webull client initialised (stdlib signing, Python 3.14 compatible)
+ * Restarting with stat
+C:\Users\Robert\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.20) or chardet (7.2.0)/charset_normalizer (3.4.6) doesn't match a supported version!
+  warnings.warn(
+C:\Users\Robert\Desktop\momentum_scanner\flask_app.py:22: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+python-dotenv could not parse statement starting at line 1
+ * Debugger is active!
+ * Debugger PIN: 141-660-845
